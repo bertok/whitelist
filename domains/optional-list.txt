@@ -21,9 +21,9 @@ sqs.us-east-1.amazonaws.com
 
 # Bild.de
 
-acdn.adnxs.com
-cdn1.smartadserver.com
-ec-ns.sascdn.com
+#acdn.adnxs.com
+#cdn1.smartadserver.com
+#ec-ns.sascdn.com
 
 # DirectTV Now
 
@@ -170,23 +170,23 @@ a790.w16.akamai.net
 
 # Share buttons on websites
 
-dsms0mj1bbhn4.cloudfront.net
-shareaholic.com
+#dsms0mj1bbhn4.cloudfront.net
+#shareaholic.com
 
 # Sky Go (skygo.sky.de)
 
-assets.adobedtm.com
+#assets.adobedtm.com
 
 # Target's Weekly Ads
 
-weeklyad.target.com
-m.weeklyad.target.com
-weeklyad.target.com.edgesuite.net
+#weeklyad.target.com
+#m.weeklyad.target.com
+#weeklyad.target.com.edgesuite.net
 
 # UK University application website
 # https://github.com/anudeepND/whitelist/issues/30
 
-track.ucas.com
+#track.ucas.com
 
 # URL shorteners
 
@@ -201,14 +201,14 @@ www.ow.ly
 # Videos not playing on  arstechnica/wired/vogue/newyorker
 # Note: ads before videos may appear after whitelisting this domain
 
-d2c8v52ll5s99u.cloudfront.net
+#d2c8v52ll5s99u.cloudfront.net
 
 # Videos not playing on www.jacquielawson.com
 
-f1.media.brightcove.com
+#f1.media.brightcove.com
 
 # WatchESPN
 
-fpdownload.adobe.com
-entitlement.auth.adobe.com
-livepassdl.conviva.com
+#fpdownload.adobe.com
+#entitlement.auth.adobe.com
+#livepassdl.conviva.com
